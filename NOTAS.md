@@ -69,3 +69,4 @@ Nota 68
 Nota 69
 Nota 70
 Nota 71
+Nota 72
